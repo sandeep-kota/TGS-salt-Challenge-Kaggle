@@ -23,8 +23,9 @@ sklearn==0.19.2
 
 3) The directory structure should be as follows:
 
-/Dataset
 ```sh
+/Dataset
+
 ​	/Test
 
 ​		test images
