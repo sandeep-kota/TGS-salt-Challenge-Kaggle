@@ -24,32 +24,20 @@ sklearn==0.19.2
 3) The directory structure should be as follows:
 
 /Dataset
-
+```sh
 ​	/Test
 
 ​		test images
-
-​		.
-
-​		.
 
 ​	/Train
 
 ​		/images
 
 ​			training images
-​			.
-
-​			.
 
 ​		/mask
 
-
-
 ​			training masks
-
-​			.
-
-​			.
+```
 
 4) Open the jupyter notebook 'TGS Salt Challenge.ipynb' and run the all the cells.
